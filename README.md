@@ -1,5 +1,6 @@
 # applied-statistics-project
-Analysys results: https://www.canva.com/design/DAFocS33n0o/hvD8xCp9VLIBE3RMownTUQ/edit?utm_content=DAFocS33n0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Results: https://www.canva.com/design/DAFocS33n0o/hvD8xCp9VLIBE3RMownTUQ/edit?utm_content=DAFocS33n0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Ground Motion Models (GMMs) are complex equations used by seismologists to predict earthquake occurrence and the intensity of ground shaking. They play a crucial role in seismic hazard analysis and civil protection planning. In our university project, we focused on ITA18 GMM, the state-of-the-art model for predicting spectral acceleration in Italy.
 
 Our goal was to develop a predictive model for estimating the Spectral Acceleration (SA) at unmeasured locations, considering spatial correlation and period dependence. Through geospatial plots, we observed a correlation between the magnitude of observed events and the style of faulting at different locations in Italy.
