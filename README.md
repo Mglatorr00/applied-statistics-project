@@ -16,3 +16,10 @@ By extending the ground motion models to a functional framework, we developed a 
 Utilizing linear mixed effects models, we captured the internal variability among seismic events, which can be sporadic and distinct from one another.
 
 In conclusion, our project demonstrated the enhancement of ground motion modeling and prediction by extending state-of-the-art models to a functional framework. We showcased the benefits of continuous estimation, regularization, and time-dependence. The inclusion of linear mixed effects models improved our understanding of internal variability among seismic events. This work contributes valuable insights for seismic analysis and prediction, supporting seismic hazard analysis and civil protection planning efforts in Italy.
+
+Code and analysis by:
+    erica.casassa@mail.polimi.it
+    martina.fervari@mail.polimi.it
+    mariagiovanna.latorraca@mail.polimi.it
+    eliasraphael.roux@mail.polimi.it
+    edoardo1.vitale@mail.polimi.it
